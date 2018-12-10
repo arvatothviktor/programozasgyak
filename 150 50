@@ -1,0 +1,44 @@
+egyszerű szám: -term. számok
+               -egész --komplemens
+               -valós (float, double, decimal)
+               
+  logikai
+  karakter   C# kód
+  szöveg (string)
+           /\
+       byte  2byte
+     ASCII    UNICODE
+Adat szerkezet
+ -adatelem
+ -hely
+homogén: azonos típusú elemek
+
+tömb
+ statikus nem változik a mérete
+ nem egyensúlyba van
+ kitüntetett az első elem
+ sorszám (index)
+ 
+ 
+  >1D vektor
+  :
+  :
+  :
+  :
+  :
+  :
+  :.........
+  
+ >>2D mátrix
+ sor, oszlop
+ .......
+ .......
+ ....... 
+ 1 index
+ 1 értek
+ 
+ >>> 3D sor,oszlop ?
+  . . . .
+ . . . .
+ . .  . .
+ . . .
